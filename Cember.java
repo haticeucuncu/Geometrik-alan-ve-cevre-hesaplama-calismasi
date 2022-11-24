@@ -1,7 +1,5 @@
 package alanhesaplama;
 
-import java.sql.SQLOutput;
-
 public class Cember extends AlanHesapla{
     double yarıCap;
 
